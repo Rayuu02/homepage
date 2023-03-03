@@ -1,5 +1,5 @@
 # Kacper Samotyja - my homepage
-![Kacper](images/Kacper Samotyja.jpg)
+![Kacper](images/Kacper.jpg)
 ##Demo
 https://github.com/Rayuu02/homepage.git
 ## Description
