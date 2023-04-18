@@ -1,0 +1,48 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.header {
+    color: rgb(70, 119, 255);
+    background-color: rgb(194, 191, 33);
+    text-align: center;
+}
+
+.ciekawyElement {
+    color: rgb(30, 255, 0);
+}
+
+.pudelko {
+    color: rgb(0, 0, 0);
+}
+
+.element {
+    max-width: 1000px;
+    padding-left: 50px
+}
+
+.subTitle {
+    max-width: 1000px;
+    background-color: aquamarine;
+    border: 2px solid blue
+}
+
+.body {
+    color: rgb(75, 73, 73);
+    background-color: white
+}
+
+.darkTheme {
+    color: rgb(75, 73, 73);
+    background-color: black
+}
+
+.dark {
+    color: rgb(235, 235, 235);
+    background-color: rgb(75, 73, 73);
+}
+
